@@ -18,13 +18,3 @@
 </p>
 
 :star: Star me on GitHub — it helps!
-
-## Features 📋
-⚡️ Registration using SMS authentication
-⚡️ Fill standard social mixing diary forms
-⚡️ save data
-⚡️ editing data by client
-
-
-
-:star: Star me on GitHub — it helps!
