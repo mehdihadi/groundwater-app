@@ -1,0 +1,23 @@
+---
+title: "Contact"
+output: html_document
+
+---
+
+
+
+&nbsp;
+<hr />
+<p style="text-align: center;font-size:10px;">طراحی سامانه: <a href="https://www.ier.tums.ac.ir/">مرکز تحقیقات کیفیت آب</a></p>
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!-- Add font awesome icons -->
+<p style="text-align: center;">
+    <a href ='https://www.linkedin.com/in/mahdi-hadi-7081808/'  ><img src = 'https://camo.githubusercontent.com/45e6bebceba49c2cf76b1b3770b1adbe24e6c454/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667' title = "Visit my linkedin" height = "15px" ></img>
+    </a>
+    <a href = "mailto:m.hadi1981@gmail.com" ><img src = 'https://camo.githubusercontent.com/5bf17041186bbc591a286709593ee76baf2e4711/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667' title = "E-mail me"  height = "15px" ></img>
+    </a>
+    <a href = "tel:+989189061738" ><img src = 'https://camo.githubusercontent.com/fce4b2b8a7a33047fd617855c5b7564e61f10c17/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f70686f6e652e737667' title = "Tell me"  height = "15px" ></img>
+    </a>
+</p>
+&nbsp;
