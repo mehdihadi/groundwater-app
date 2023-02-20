@@ -1,0 +1,6 @@
+.leaflet-popup-content-wrapper {
+  position: absolute;
+  text-align: right;
+  direction: rtl;
+  font-family: 'Vazir';
+}
