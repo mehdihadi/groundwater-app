@@ -7,12 +7,12 @@
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 # A Shiny app for social mixing data collection
-
+ 
 ### App Preview
 > https://mahdi-hadi.shinyapps.io/groundwater
 <p align="center"> 
   <kbd>
-    <a  target="_blank"><img src="smix.gif">
+    <a  target="_blank"><img src="www/gwater.png">
   </a>
   </kbd>
 </p>
