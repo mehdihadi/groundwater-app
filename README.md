@@ -9,6 +9,7 @@
 # A Shiny app for social mixing data collection
 
 ### App Preview
+> https://mahdi-hadi.shinyapps.io/groundwater
 <p align="center"> 
   <kbd>
     <a  target="_blank"><img src="smix.gif">
