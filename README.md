@@ -6,7 +6,7 @@
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://ir.linkedin.com/in/mahdi-hadi-7081808)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-# A Shiny app for social mixing data collection
+# A Shiny app for groundwater data visualization
  
 ### App Preview
 > https://mahdi-hadi.shinyapps.io/groundwater
